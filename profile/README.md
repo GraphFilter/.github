@@ -5,14 +5,24 @@
   <br>
 </h1>
 
-<h4 align="center"> Software to help Graph researchers providing filtering and visualization to a given list of graphs.</h4>
+<h4 align="center"> Institutional group responsible to implement the Graph Filter app.</h4>
+<p align="center">
+The main goal of Graph Filter is to give Graph Theory Researchers a way to filter a list of graphs according to the equation and conditions given by the user, and provide an easy visualization afterwards.
+</p>
 
-## Credits
+### History
+- [Graph Filter v1.0](https://github.com/GraphFilter/GraphFilter-Deprecated), made with C#, was where it all started. However, now this version is deprecated.  
+- [Graph Filter v2.0](https://github.com/GraphFilter/GraphFilter), made with Python, is the improvement of the first version of Graph Filter.
+  
+For now on, all the updates will be made on the v2.0 repository. 
 
-### Financial support
-This program is financed by the [Instituto Federal Sudeste de Minas Gerais - Juiz de Fora](https://www.ifsudestemg.edu.br/juizdefora).
+### Follow up
+We are always updating our [Board Project](https://github.com/GraphFilter/GraphFilter/projects/1). You can check what new features we are working on from there.
 
-### Contributors
-- [Átila Arueira Jones](http://lattes.cnpq.br/0512886691975427) - supervisor
-- [Lavínia Beghini de Castro](http://lattes.cnpq.br/4628343748028263) - developer of the version 2.0
-- [Denilson Paula de Oliveira Ribeiro](http://lattes.cnpq.br/3015094474391866) - developer of the version 1.0
+### Contribute
+Any kind of contribution would be well received by us. Please, feel free to open an issue if you identify any bug or improvement, and we'll implement a new feature or or fix the problem as soon as possible.
+
+### Credits
+
+This program is financed by the [Southeastern Minas Gerais Federal Institute - Juiz de Fora Campus](https://www.ifsudestemg.edu.br/juizdefora).  
+And a special thanks to [Balsamiq](https://www.balsamiq.com/) that gave us a free license to develop our wireframes.
