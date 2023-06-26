@@ -17,7 +17,7 @@ The main goal of Graph Filter is to give Graph Theory Researchers a way to filte
 For now on, all the updates will be made on the v2.0 repository. 
 
 ### Follow up
-We are always updating our [Board Project](https://github.com/GraphFilter/GraphFilter/projects/1). You can check what new features we are working on from there.
+We are always updating our [Board Project](https://github.com/orgs/GraphFilter/projects/6). You can check what new features we are working on from there.
 
 ### Contribute
 Any kind of contribution would be well received by us. Please, feel free to open an issue if you identify any bug or improvement, and we'll implement a new feature or or fix the problem as soon as possible.
