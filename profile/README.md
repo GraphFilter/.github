@@ -24,5 +24,4 @@ Any kind of contribution would be well received by us. Please, feel free to open
 
 ### Credits
 
-This program is financed by the [Southeastern Minas Gerais Federal Institute - Juiz de Fora Campus](https://www.ifsudestemg.edu.br/juizdefora).  
-And a special thanks to [Balsamiq](https://www.balsamiq.com/) that gave us a free license to develop our wireframes.
+This program is financed by the [Instituto Federal Sudeste de Minas Gerais - Juiz de Fora Campus](https://www.ifsudestemg.edu.br/juizdefora), Conselho Nacional de Desenvolvimento Científico e Tecnológico ([CNPq](http://portal.cnpq.br)), Fundação de Amparo à Pesquisa do Estado de Minas Gerais ([FAPEMIG](https://fapemig.br)). And a special thanks to [Balsamiq](https://www.balsamiq.com/) that gave us a free license to develop our wireframes.
